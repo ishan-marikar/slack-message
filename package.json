@@ -1,0 +1,19 @@
+{
+  "name": "slack-message",
+  "version": "1.0.0",
+  "description": "[![NPM](https://nodei.co/npm/slack-message.png)](https://nodei.co/npm/slack-message/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan-marikar/slack-message.git"
+  },
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishan-marikar/slack-message/issues"
+  },
+  "homepage": "https://github.com/ishan-marikar/slack-message#readme"
+}
